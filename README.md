@@ -10,6 +10,6 @@ Dragon Repeller is a browser-based role-playing game that was created using HTML
 To play Dragon Repeller, simply clone this repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone [your-repository-link]
+git clone https://github.com/lemonteaau/Dragon-Repeller.git
 cd Dragon-Repeller
 open index.html
